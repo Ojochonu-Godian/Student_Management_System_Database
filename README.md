@@ -17,4 +17,13 @@ The database consists of the following tables:
 - Instructors: Stores instructor information
 - CourseInstructors: Junction table for course-instructor relationships
 
-## Te
+## Tools Used
+- **MS SQL Server Management Studio** for SQL queries
+- **MS SQL Server Import and Export Data** to import data into the database
+- **dbdiagram.io** for ER-Diagram
+
+## Documentation
+The full technical documentation is found HERE, It contains;
+- The table structure explanation
+- Table relationships
+- The query logic
