@@ -19,7 +19,7 @@ The database consists of the following tables:
 
 ## Tools Used
 - **MS SQL Server Management Studio** for SQL queries
-- **MS SQL Server Import and Export Data** to import data into the database
+- **MS SQL Server Import and Export Data** to import [data](https://github.com/Ojochonu-Godian/Student_Management_System_Database/blob/main/Student_Database_Data.xlsx) into the database
 - **dbdiagram.io** for ER-Diagram
 
 ## Documentation
