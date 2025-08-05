@@ -23,7 +23,7 @@ The database consists of the following tables:
 - **dbdiagram.io** for ER-Diagram
 
 ## Documentation
-The full technical documentation is found HERE, It contains;
+The full technical documentation is found [HERE](https://github.com/Ojochonu-Godian/Student_Management_System_Database/blob/main/Student_Database_Documentation.pdf), It contains;
 - The table structure explanation
 - Table relationships
 - The query logic
